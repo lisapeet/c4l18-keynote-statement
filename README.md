@@ -668,6 +668,7 @@ unprofessional behavior.
 * Larry Alford, University of Toronto Libraries
 * Sian Meikle
 * Brandy Karl
+* Lisa Peet
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
